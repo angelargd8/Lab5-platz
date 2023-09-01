@@ -1,4 +1,3 @@
-# Lab5-platz
 # Pantallas
 ## Informacion de los conciertos que vienen
 - https://youtu.be/Nr3tZlpczd4
